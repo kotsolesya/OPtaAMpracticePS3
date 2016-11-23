@@ -1,3 +1,4 @@
+//1 день 6.9 = 6 завдання
 #include <iostream>
 #include <string.h>
 using namespace std;

@@ -1,3 +1,4 @@
+//3-4 день функции.doc = 4 задание 
 #include <iostream>
 #include <cmath>
 using namespace std;
@@ -20,7 +21,7 @@ int main()
     if (S1 < S2) 
     { cout << "Trikutnik S2 mae bilshu ploshu" << endl; } 
     else 
-    { cout << "Trikutnik S mae bilshu ploshu" << endl; }
+    { cout << "Trikutnik S1 mae bilshu ploshu" << endl; }
     system("pause");
     return 0;
 }

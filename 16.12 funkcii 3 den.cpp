@@ -1,3 +1,4 @@
+//3 день Функції = 16(12) завдання
 #include <iostream>
 #include <cmath>
 using namespace std;

@@ -1,3 +1,4 @@
+//2 день Вектори і матриці = 22 завдання
 #include <iostream>
 using namespace std;
 int main()

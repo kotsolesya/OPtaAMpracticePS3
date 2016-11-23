@@ -1,3 +1,4 @@
+//2 день Абрамов = 702 завдання
 #include <iostream>
 using namespace std;
 int main()
