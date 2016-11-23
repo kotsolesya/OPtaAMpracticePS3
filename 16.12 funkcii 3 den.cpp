@@ -1,4 +1,4 @@
-//3 день Функції = 16(12) завдання
+//3 den funkzii = 16(12) zavdanie 
 #include <iostream>
 #include <cmath>
 using namespace std;

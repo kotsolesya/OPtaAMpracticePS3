@@ -1,4 +1,4 @@
-//1 день 6.9 = 47 завдання
+//1 den 6.9 = 47 zavdanie 
 #include <iostream>
 #include <string>
 using namespace std;

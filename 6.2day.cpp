@@ -1,4 +1,4 @@
-//2 день Вектори і матриці.doc = 6 завдання
+//2 den dektori i matrizi.doc = 6 zavdanie 
 #include <iostream>
 #include <algorithm>  // для функції merge
 #include <iterator> // використовуєм його для вказання 2 масивів

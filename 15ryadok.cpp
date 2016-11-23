@@ -1,4 +1,4 @@
-//1 день рядок = 15 завдання
+//1 den ryadok = 15 zavdanie 
 #include <iostream> 
 #include <cctype> 
 int main()

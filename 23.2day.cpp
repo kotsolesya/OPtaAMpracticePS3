@@ -1,4 +1,4 @@
-//2 день Вектори і матриці = 22 завдання
+//2 den vektori i matrizi = 22 zavdanie 
 #include <iostream>
 using namespace std;
 int main()

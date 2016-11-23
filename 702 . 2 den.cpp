@@ -1,4 +1,4 @@
-//2 день Абрамов = 702 завдання
+//2 den Abramov = 702 zavdanie 
 #include <iostream>
 using namespace std;
 int main()

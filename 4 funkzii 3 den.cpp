@@ -1,4 +1,4 @@
-//3-4 день функции.doc = 4 задание 
+//3-4 den funkzii.doc = 4 zadanie
 #include <iostream>
 #include <cmath>
 using namespace std;
