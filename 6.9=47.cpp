@@ -9,7 +9,7 @@ int main()
     getline(cin, Str);
     for(size_t i=0; i<Str.size(); ++i)
     {
-        if(Str[i] == Str[i+1])
+        if(Str[i] == '.')
         {
             Str.insert(Str.begin()+ ++i, ' ');
         }
