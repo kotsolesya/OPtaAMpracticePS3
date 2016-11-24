@@ -1,4 +1,4 @@
-//3 den funkzii = 16(12) zavdanie 
+//3-4 den funkzii = 16(12) zavdanie 
 #include <iostream>
 #include <cmath>
 using namespace std;

@@ -5,7 +5,7 @@ int main()
 {
     setlocale(LC_ALL,"Russian");
 	int n;
-	cout<<"Ввести число квадратной матрицы = ";
+	cout<<" vedite chislo kvadratroi matrici = ";
 	cin>>n;
 	double b[n];
 	for (int i=0; i<n; i++)
@@ -14,7 +14,7 @@ int main()
 	    else b[i]=1.0/(i+1);
         }
 	double A[n][n];
-	cout<<"Ввести два элемента матрицы А[i][j] = ";
+	cout<<" vedite 2 elementa matrici v [] [] = ";
 	for (int i=0; i<n; i++)
 	    for (int j=0; j<n; j++)
 	        cin>>A[i][j];
