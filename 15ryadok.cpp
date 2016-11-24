@@ -1,17 +1,17 @@
 //1 den ryadok = 15 zavdanie 
 #include <iostream> 
-#include <cctype> 
+using namespace std;
 int main()
 {
     int ctr = 0; 
-    char str[] = "321312sad213213213''''''' " ; 
-    cin>>str>>endl
+    char str[100]; 
+    cin>>str;
     while ( str[ctr] )  
     {
       if ( isalpha(str[ctr]) ) 
-          std::cout << "" << str[ctr] << "";
+          cout << "" << str[ctr] << "";
       else
-          std::cout << "";
+          cout << "";
       ctr++;
     }
  system("pause");
