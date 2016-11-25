@@ -18,7 +18,6 @@ int m;
        cin>>a[i].name;
        cout<<"\n H=";
        cin>>a[i].h;
-       
       }
     cout<<"\n\n H>3000:\n";
      for(i=0;i<n;i++)
