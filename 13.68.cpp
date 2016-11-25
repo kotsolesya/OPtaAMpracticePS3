@@ -1,28 +1,14 @@
-#include<iostream>
-#include<conio.h>
- 
-using namespace std;
- 
-int main() {
-    char string[100];
-    cout << "vvedite stroku: ";
-    cin >> string;
-    int i = 0;
-    char flag = false;
-    cout << "Ishodnaya stroka : " << string << endl;
-    cout << "Podstroka kotoraya nahoditsya mejdy (@#%): ";
-    while(string[i] != '\0') {
-        if(string[i] == '(') {
-            flag = true;
-            i++;
-        }
-        if(string[i] == ')') {
-            flag = false;
-        }
-        if(flag)
-            cout << string[i];
-        i++;
-    }
-    cout << endl;
-    getch();
+#include <iostream>
+#include <locale>
+  using namespace std;
+  int main() {
+   for (char ch; cin.get(ch) && ch != '\n'; ) {
+    if (!isalpha(ch)) {
+         cout << ch;
+      }
+      }
+   cout << endl;
+   system("pause");
+   return 0;
 }
+
