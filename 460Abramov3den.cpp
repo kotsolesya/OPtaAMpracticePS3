@@ -26,7 +26,7 @@ int i,z, summ, count;
 z=0; i=0; summ=0;
 char s[3]; 
 char si; 
-cout<<"Введите строку используются цифры\nот 0 до 9 и латинские буквы от A до F "<<" ";
+cout<<"vvedite 0 - 9 ili A - F"<<" ";
 cin>>s;
 cout<<"\n";
 i=strlen(s);
@@ -37,8 +37,8 @@ else if ('A' <= s[x] && s[x]<='F') j = s[x] - 'A' + 10;
 }
 z=counter1(j,x,count);
  summ=summ+z;
- cout<<"В шестнадцатеричной системе "<<" "<<s<<"\n";
- cout<<"В десятирчной системе  "<<" "<<summ-3809<<"\n";
+ cout<<"v 16 sisteme "<<" "<<s<<"\n";
+ cout<<"v 10 sisteme "<<" "<<summ-3809<<"\n";
  getch();
  return 0;
 }
