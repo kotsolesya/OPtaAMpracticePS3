@@ -1,4 +1,4 @@
-//6-7 den 6.13.2 - 11 zadanie
+//6-7 den 6.13.2 - 11zadanie
 #include <stdio.h>
 #include <string.h>
 #include <conio.h>
