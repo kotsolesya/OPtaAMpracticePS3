@@ -20,7 +20,6 @@ int main()
         else if (a[i].height < min.height)
             min = a[i];
     cout << "\nmin height - " << min.name << "\nmax height - " << max.name << "\n\n";
-    
     max1.height = 0; // b
     max2.height = 0;
     for (int i=0; i<n; i++)
