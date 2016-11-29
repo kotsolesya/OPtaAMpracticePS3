@@ -11,7 +11,7 @@ int main()
   char text[100], word;
   char s1[n],s2[n];
   char *p;
-  puts("vvedite stroku s1?"); 
+  puts("vvedite text v fail?"); 
   gets(text);
   file<<text;
   puts("vvedite stroku s2?"); 
@@ -24,5 +24,4 @@ int main()
    }
      else puts("NO");
   getch();
-  return 0;
-}
+  return 0; }
