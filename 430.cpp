@@ -50,4 +50,4 @@ for (int i=0; i<5; i++){
   MAX(X,Y,Z);
 
 getch();
-}                       
+}                  

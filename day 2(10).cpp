@@ -39,4 +39,3 @@ int main()
     }
     system ("pause");
 }
-

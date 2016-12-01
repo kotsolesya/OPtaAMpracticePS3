@@ -5,11 +5,10 @@ int main()
 {
     char s[200];
     int m=0;
-    cout<<"Vvesti stroku=";
+    cout<<"ввести строки=";
     cin.getline(s,200); 
     for(int i=0;s[i];i++)
    { m+=s[i]==' '; }
-    cout<<"Kolicestvo probelov= "<<m<<endl;
+    cout<<"Количество пробелов= "<<m<<endl;
 system ("pause");
 }
-
